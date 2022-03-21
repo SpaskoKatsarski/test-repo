@@ -1,3 +1,2 @@
 # test-repo
-This is a random repo
-Which I accidently created :D
+This is a random repo which I accidently created :D
